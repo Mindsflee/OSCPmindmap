@@ -8,9 +8,9 @@ This scheme is the way I normally think when I hack linux or windows machines. I
 
 **Any suggestion is accepted in order to improve the map, change or add concepts.**
 
-The Repository is subidvided in:
+The Repository is subdivided in:
 
-* One Visio File (i you want to edit the original file)
+* One Visio File (if you want to edit the original file)
 * One PDF File
 * One PNG File
 
